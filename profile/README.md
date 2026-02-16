@@ -1,7 +1,7 @@
 # Open Sourcery 🩵
 
 <p align = "center"> 
-  <img src="images/open_sourcery.png" alt="Open Sourcery logo" width="300">
+  <img src="open_sourcery.png" alt="Open Sourcery logo" width="300">
 </p>
 
 **Open Sourcery** is the University of Maryland's premier student organization dedicated to collaborative and open-source software development.
