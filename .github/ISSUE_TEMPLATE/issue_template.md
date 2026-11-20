@@ -2,7 +2,7 @@
 name: Task
 about: Describe a task to assign to a Developer on your project
 title: '[Task]: '
-labels: 'priority: medium'
+labels: ''
 assignees: ''
 type: Task
 ---
