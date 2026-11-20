@@ -1,15 +1,14 @@
 ---
-name: Issue
-about: Describe a task, feature, or bug
-title: ''
-labels: ''
+name: Task
+about: Describe a task to assign to a Developer on your project
+title: '[Task]: '
+labels: 'priority: medium'
 assignees: ''
+type: Task
 ---
 
-# Issue Template
-
 ## Description
-Provide a clear description of the task, feature, or bug being addressed.
+Provide a clear description of the feature or bug being addressed.
 
 Explain what needs to be done and why it is important.
 
